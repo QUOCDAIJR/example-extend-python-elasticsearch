@@ -4,7 +4,7 @@
 ###Struct
 
 - `es.py`: File contains class extend from Python Elasticsearch with some basic methods.
-- `index.py`: File contains classes that declare and config index, mapping.
+- `index.py`: File contains Index classes.
 - `example.py`: 1 example
 
 ###Usage

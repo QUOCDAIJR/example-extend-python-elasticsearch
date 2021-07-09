@@ -3,10 +3,10 @@ from indexs import ExampleIndex
 
 
 if __name__ == '__main__':
-    es = ExampleIndex("127.0.0.1", "9400")
+    es = ExampleIndex("127.0.0.1", "9200")
     example_data = {
         "id": "1",
-        "name": "example"
+        "example_field": "example"
     }
     # index document
     es.index(example_data)

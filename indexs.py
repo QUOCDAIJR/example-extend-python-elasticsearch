@@ -1,4 +1,3 @@
-
 from es import BaseElastic
 
 prefix_index = 'ana_'
