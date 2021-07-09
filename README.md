@@ -1,6 +1,12 @@
 
-## An example of inheriting the Python Elasticsearch package
+## An example extend from Python Elasticsearch package
 
+###Struct
+- `es.py`: File contains class extend from Python Elasticsearch with some basic methods.
+- `index.py`: File contains classes that declare and config index, mapping.
+- `example.py`: 1 example
+
+###Usage
 Create virtual env
 
 Edit config Es host and port 
