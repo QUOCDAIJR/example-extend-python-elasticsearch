@@ -15,5 +15,10 @@ Edit config Es host and port
 
 Run example: `python example.py` to see result
 
-Note: 
-- You must have Elasticsearch server before run
+###Note: 
+
+You must have Elasticsearch server before run
+
+###Contributes
+
+You can help me improve this code. Thank you!
